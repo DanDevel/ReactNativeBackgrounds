@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="926" viewBox="0 0 428 926">
+  <defs>
+    <clipPath id="clip-iPhone_13_12_Pro_Max_1">
+      <rect width="428" height="926"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_13_12_Pro_Max_1" data-name="iPhone 13, 12 Pro Max – 1" clip-path="url(#clip-iPhone_13_12_Pro_Max_1)">
+    <rect width="428" height="926" fill="#fff"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="428" height="355" transform="translate(0 571)" fill="#ffd257"/>
+    <path id="Path_1" data-name="Path 1" d="M0,0S22.391-1.649,76.968,0,159.535,9.844,218.31,6.595s73.741-12.7,126.164-14.35S428,0,428,0V78H0Z" transform="translate(0 493)" fill="#57a0ff"/>
+    <path id="Path_2" data-name="Path 2" d="M0-1.55S17.464-9.12,72.041-7.793,159.535,6.375,218.31,3.76,292.052-6.466,344.474-7.793,428-1.55,428-1.55V61.245H0Z" transform="translate(0 509.755)" fill="#4c97fb"/>
+    <path id="Path_3" data-name="Path 3" d="M0-2.928s17.464-5.94,72.041-4.9S159.535,3.29,218.31,1.237s75.4-14.77,127.82-15.811S428-2.928,428-2.928V46.34H0Z" transform="translate(0 524.66)" fill="#5aa1ff"/>
+  </g>
+</svg>
